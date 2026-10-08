@@ -2,20 +2,20 @@
 
 Curated Model Context Protocol servers for AI-assisted development
 
-**133** entries across **19** categories.
+**136** entries across **19** categories.
 
 ## Categories
 
-- **Developer Tools** (15)
+- **Developer Tools** (16)
 - **AI & Machine Learning** (14)
 - **Agent Orchestration** (14)
+- **Communication** (11)
 - **Databases** (10)
-- **Communication** (10)
 - **Search** (10)
 - **DevOps** (8)
 - **Security** (7)
+- **Research & Data** (7)
 - **Official Reference** (6)
-- **Research & Data** (6)
 - **Browser Automation** (5)
 - **Cloud Platforms** (5)
 - **Marketing** (5)
@@ -26,7 +26,7 @@ Curated Model Context Protocol servers for AI-assisted development
 - **Data Engineering** (1)
 - **Mobile** (1)
 
-## All 133 mcps
+## All 136 mcps
 
 | Name                              | Category              | Description                                                                                                                                                                                                                                                                         | Source                                                                                                                | Badges                                                                                                                                                                                                                                               |
 | --------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -163,6 +163,9 @@ Curated Model Context Protocol servers for AI-assisted development
 | MuAPI CLI & MCP Server            | AI & Machine Learning | Official MuAPI CLI and MCP server for image, video, and audio generation and editing, with hosted Streamable HTTP and local stdio setup                                                                                                                                             | [SamurAIGPT/muapi-cli](https://github.com/SamurAIGPT/muapi-cli)                                                       | ![Stars](https://img.shields.io/github/stars/SamurAIGPT/muapi-cli?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/SamurAIGPT/muapi-cli?style=flat)                                                       |
 | Aident Loadout                    | Agent Orchestration   | Remote MCP server that connects Claude Code, Codex, Cursor and other agents to 1,000+ apps and 400+ expert-built Skills through one OAuth sign-in                                                                                                                                   | [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill)                                                   | ![Stars](https://img.shields.io/github/stars/Aident-AI/aident-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Aident-AI/aident-skill?style=flat)                                                   |
 | Darkmoon                          | Security              | Start authorized autonomous AI pentest runs, poll status, list campaigns and read findings on your own self-hosted Darkmoon Pro (engine and CLI are open source GPL-3.0; this server needs the Pro dashboard, no hosted endpoint)                                                   | [ASCIT31/darkmoon-mcp-server](https://github.com/ASCIT31/darkmoon-mcp-server)                                         | ![Stars](https://img.shields.io/github/stars/ASCIT31/darkmoon-mcp-server?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/ASCIT31/darkmoon-mcp-server?style=flat)                                         |
+| Voidly Atlas                      | Research & Data       | Internet-censorship data (OONI, Censored Planet, IODA) and Sentinel forecasts, plus opt-in agent relay tools; relay messages are relay-readable, not end-to-end encrypted                                                                                                           | [voidly-ai/atlas-mcp](https://github.com/voidly-ai/atlas-mcp)                                                         | ![Stars](https://img.shields.io/github/stars/voidly-ai/atlas-mcp?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/voidly-ai/atlas-mcp?style=flat)                                                         |
+| Voidmail                          | Communication         | Email inboxes for AI agents that send only to owner-approved recipients; no phone or CAPTCHA; inboxes are server-readable, not end-to-end encrypted                                                                                                                                 | [voidly-ai/mcp-email](https://github.com/voidly-ai/mcp-email)                                                         | ![Stars](https://img.shields.io/github/stars/voidly-ai/mcp-email?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/voidly-ai/mcp-email?style=flat)                                                         |
+| Screenpipe MCP                    | Developer Tools       | Search local screen text and audio history for coding-agent context.                                                                                                                                                                                                                | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)                                                     | ![Stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/screenpipe/screenpipe?style=flat)                                                     |
 
 ---
 
